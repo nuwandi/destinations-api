@@ -109,15 +109,6 @@
       "star": 4.8
     },
     {
-      "id": 13,
-      "img":"https://1.bp.blogspot.com/-5dfr-iVdsrE/XUVvqQRVMiI/AAAAAAACiTk/c8PkoThLzAsReu5v_acgm6GS5AG9YDIEACLcBGAs/s1600/DSC05624-001.jpg",
-      "location":"colombo",
-      "title": "Kaema Sutra",
-      "shortDescription": "Sunsets are not to be missed at Kaema Sutra, located on the fourth floor of the Shangri-La Hotel, which boasts magnificent views over the shimmering Indian Ocean.",
-      "tags": ["colombo", "food"],
-      "star": 4.5
-    },
-    {
     "id": 14,
       "img":"https://d2eohwa6gpdg50.cloudfront.net/wp-content/uploads/2020/01/30171212/Crab_0015.jpg",
       "location":"colombo",
@@ -196,15 +187,6 @@
       "title": "Polonnaruwa Archeologic Site",
       "description": "Polonnaruwa was the second capital of Sri Lanka after the destruction of Anuradhapura in 993.",
       "tags": ["polonnaruwa", "nature", "heritage", "buddhism"],
-      "star": 4.7
-    },
-    {
-      "id": 23,
-      "img":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Beauty_of_Sigiriya_by_Binuka.jpg",
-      "location":"matale",
-      "title": "Sigiriya Rock",
-      "description": "Sigiriya is famous for its palace ruins on top of a massive 200 meter high rock surrounded by the remains of an extensive network of gardens, reservoirs and other structures.",
-      "tags": ["matale", "nature", "heritage"],
       "star": 4.7
     }
   ]
