@@ -170,6 +170,24 @@
       "description": "",
       "tags": ["nature", "safari"],
       "star": 4
+    },
+    {
+      "id":20,
+      "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
+      "location":"Colombo",
+      "title": "Colombo Port City",
+      "shortDescription": "Port City Colombo is a brand new city development built as an extension of the Central Business District of Sri Lanka’s vibrant commercial capital, Colombo. Spanning 269 hectares of reclaimed land from the sea, Port City Colombo will be South Asia’s premiere residential, retail and business destination, offering unmatched planned city living along the warm waters of the Indian Ocean.",
+      "tags": ["colombo", "beach", "food", "shopping"],
+      "star": 4.8
+    },
+    {
+      "id": 21,
+      "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
+      "location":"Polonnaruwa",
+      "title": "Minneriya National Park",
+      "description": "",
+      "tags": ["nature", "safari"],
+      "star": 4
     }
   ]
 }
