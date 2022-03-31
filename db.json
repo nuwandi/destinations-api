@@ -125,6 +125,33 @@
       "shortDescription": "git remote add origin https://github.com/nuwandi/destinations-api.git",
       "tags": ["colombo", "food"],
       "star": 4.5
+    },
+    {
+      "id": 15,
+      "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
+      "location":"Galle",
+      "title": "Hoppa Galle Fort",
+      "shortDescription": "",
+      "tags": ["galle", "food"],
+      "star": 4.5
+    },
+    {
+      "id":16,
+      "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
+      "location":"Colombo",
+      "title": "Gangaramaya Buddhist Temple",
+      "shortDescription": "Port City Colombo is a brand new city development built as an extension of the Central Business District of Sri Lanka’s vibrant commercial capital, Colombo. Spanning 269 hectares of reclaimed land from the sea, Port City Colombo will be South Asia’s premiere residential, retail and business destination, offering unmatched planned city living along the warm waters of the Indian Ocean.",
+      "tags": ["colombo", "heritage", "buddhism"],
+      "star": 4.6
+    },
+    {
+      "id": 17,
+      "img":"https://www.cercledesvoyages.com/wp-content/webp-express/webp-images/uploads/2020/12/pm_8002_106_106798-ibqc5cn6qp-5062-1.jpeg.webp",
+      "location":"Nuwara Eliya",
+      "title": "St. Clair's Falls",
+      "description": "",
+      "tags": "",
+      "star": 4
     }
   ]
 }
