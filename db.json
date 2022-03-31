@@ -32,17 +32,17 @@
       "img":"https://www.cercledesvoyages.com/wp-content/webp-express/webp-images/uploads/2020/12/pm_8002_106_106798-ibqc5cn6qp-5062-1.jpeg.webp",
       "location":"Nuwara Eliya",
       "title": "Horton Plains National Park",
-      "description": "",
-      "tags": "",
+      "description": "git remote add origin https://github.com/nuwandi/destinations-api.git",
+      "tags": ["nuwara eliya", "nature"],
       "star": 4
     },
     {
       "id":5,
       "img":"https://cdn.statically.io/img/asianwanderlust.com/f=auto%2Cq=20/wp-content/uploads/2019/03/Ella-Sri-Lanka-pont-neuf-arches-nine-arches-bridge.jpg",
       "location":"Ella",
-      "title": "",
-      "description": "",
-      "tags": "",
+      "title": "Ella",
+      "description": "git remote add origin https://github.com/nuwandi/destinations-api.git",
+      "tags": ["ella", "nature"],
       "star": 4
     },
     {
@@ -50,8 +50,8 @@
       "img":"https://www.unpasseportencavale.com/assets1pec/uploads/2019/09/Copyright2019_Un_Passeport_En_Cavale_Sri_Lank_Passikudah_Tous_Droits_R%C3%A9serv%C3%A9s_52.jpg",
       "location":"Batticaloa",
       "title": "Passikudah Beach",
-      "description": "",
-      "tags": "",
+      "description": "git remote add origin https://github.com/nuwandi/destinations-api.git",
+      "tags": ["batticaloa", "beach", "nature"],
       "star": 4
     },
     {
@@ -59,8 +59,8 @@
       "img":"https://www.srilankatravelandtourism.com/places-sri-lanka/arugam-bay/arugam-bay-images/arugam-bay-3-sri-lanka.jpg",
       "location":"Arugam Bay",
       "title": "Arugam Bay Surf",
-      "description": "",
-      "tags": "",
+      "description": "git remote add origin https://github.com/nuwandi/destinations-api.git",
+      "tags": ["arugam bay", "surf", "beach", "nature"],
       "star": 4
     },
     {
@@ -68,8 +68,8 @@
       "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
       "location":"Hambantota",
       "title": "Yala National Park",
-      "description": "",
-      "tags": "nature, safari",
+      "description": "git remote add origin https://github.com/nuwandi/destinations-api.git",
+      "tags": ["hambantota","nature", "safari"],
       "star": 4
     },
     {
@@ -104,7 +104,7 @@
       "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
       "location":"Colombo",
       "title": "Nuga Gama",
-      "shortDescription": "",
+      "shortDescription": "git remote add origin https://github.com/nuwandi/destinations-api.git",
       "tags": ["colombo", "food"],
       "star": 4.5
     },
@@ -113,7 +113,7 @@
       "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
       "location":"Colombo",
       "title": "Kaema Sutra",
-      "shortDescription": "",
+      "shortDescription": "git remote add origin https://github.com/nuwandi/destinations-api.git",
       "tags": ["colombo", "food"],
       "star": 4.5
     },
@@ -122,7 +122,7 @@
       "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
       "location":"Colombo",
       "title": "Ministry of Crab",
-      "shortDescription": "",
+      "shortDescription": "git remote add origin https://github.com/nuwandi/destinations-api.git",
       "tags": ["colombo", "food"],
       "star": 4.5
     }
