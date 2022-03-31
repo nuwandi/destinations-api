@@ -206,24 +206,6 @@
       "description": "",
       "tags": ["nature", "heritage"],
       "star": 4
-    },
-    {
-      "id": 24,
-      "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
-      "location":"Nuwara Eliya",
-      "title": "Adam's Peak",
-      "description": "",
-      "tags": ["nature", "heritage", "buddhism"],
-      "star": 4
-    },
-    {
-      "id": 25,
-      "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
-      "location":"Jaffna",
-      "title": "Nallur Kovil",
-      "description": "",
-      "tags": ["heritage", "hindu"],
-      "star": 4
     }
   ]
 }
