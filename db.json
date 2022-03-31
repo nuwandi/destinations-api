@@ -3,7 +3,7 @@
     {
       "id":1,
       "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
-      "location":"Colombo",
+      "location":"colombo",
       "title": "Colombo Port City",
       "shortDescription": "Port City Colombo is a brand new city development built as an extension of the Central Business District of Sri Lanka’s vibrant commercial capital, Colombo. Spanning 269 hectares of reclaimed land from the sea, Port City Colombo will be South Asia’s premiere residential, retail and business destination, offering unmatched planned city living along the warm waters of the Indian Ocean.",
       "tags": ["colombo", "beach", "food", "shopping"],
@@ -12,7 +12,7 @@
     {
       "id":2,
       "img":"https://voyage.tv5monde.com/sites/default/files/galle-vue-du-ciel-werner-bayer.jpg",
-      "location":"Galle",
+      "location":"galle",
       "title": "Galle Dutch Fort",
       "description": "Galle Fort, in the Bay of Galle on the southwest coast of Sri Lanka, was built first in 1588 by the Portuguese, then extensively fortified by the Dutch during the 17th century from 1649 onwards. It is a historical, archaeological and architectural heritage monument, which even after more than 423 years maintains a polished appearance, due to extensive reconstruction work done by Archaeological Department of Sri Lanka.",
       "tags": ["galle", "beach", "nature", "heritage"],
@@ -21,7 +21,7 @@
     {
       "id":3,
       "img":"https://upload.wikimedia.org/wikipedia/commons/5/56/Sri_Lanka_-_029_-_Kandy_Temple_of_the_Tooth.jpg",
-      "location":"Kandy",
+      "location":"kandy",
       "title": "Temple of the Sacred Tooth Relic",
       "description": "he Temple of the Sacred Tooth Relic is a world-renowned place of worship, where the left Canine tooth of Gautama Buddha is enshrined.",
       "tags": ["heritage", "kandy", "buddhism"],
@@ -30,52 +30,52 @@
     {
       "id":4,
       "img":"https://www.cercledesvoyages.com/wp-content/webp-express/webp-images/uploads/2020/12/pm_8002_106_106798-ibqc5cn6qp-5062-1.jpeg.webp",
-      "location":"Nuwara Eliya",
+      "location":"nuwara eliya",
       "title": "Horton Plains National Park",
       "description": "git remote add origin https://github.com/nuwandi/destinations-api.git",
-      "tags": ["nuwara eliya", "nature"],
-      "star": 4
+      "tags": ["nuwara eliya", "nature", "mountains"],
+      "star": 4.7
     },
     {
       "id":5,
-      "img":"https://cdn.statically.io/img/asianwanderlust.com/f=auto%2Cq=20/wp-content/uploads/2019/03/Ella-Sri-Lanka-pont-neuf-arches-nine-arches-bridge.jpg",
-      "location":"Ella",
-      "title": "Ella",
-      "description": "git remote add origin https://github.com/nuwandi/destinations-api.git",
+      "img":"https://media-cdn.tripadvisor.com/media/photo-s/0b/e7/80/16/relax-lodge-ella.jpg",
+      "location":"ella",
+      "title": "Ella 9 Arch Bridge",
+      "description": "lla is has become one of the major tourist hotspots of Sri Lanka and it is largely due to the epic scenery and hikes in the region such as Ella Rock and Little Adam’s Peak.",
       "tags": ["ella", "nature"],
-      "star": 4
+      "star": 4.9
     },
     {
       "id":6,
       "img":"https://www.unpasseportencavale.com/assets1pec/uploads/2019/09/Copyright2019_Un_Passeport_En_Cavale_Sri_Lank_Passikudah_Tous_Droits_R%C3%A9serv%C3%A9s_52.jpg",
-      "location":"Batticaloa",
+      "location":"batticaloa",
       "title": "Passikudah Beach",
-      "description": "git remote add origin https://github.com/nuwandi/destinations-api.git",
+      "description": "Passikudah is a small coastal village situated in the east of Sri Lanka about 35 kilometres from Batticaloa. It is famous for its golden bay and clear, shallow waters in which you can wade 50 metres out to sea.",
       "tags": ["batticaloa", "beach", "nature"],
-      "star": 4
+      "star": 4.6
     },
     {
       "id":7,
       "img":"https://www.srilankatravelandtourism.com/places-sri-lanka/arugam-bay/arugam-bay-images/arugam-bay-3-sri-lanka.jpg",
-      "location":"Arugam Bay",
+      "location":"arugam bay",
       "title": "Arugam Bay Surf",
-      "description": "git remote add origin https://github.com/nuwandi/destinations-api.git",
+      "description": "Arugam Bay surf is probably the most famous in all of Sri Lanka. With its mellow right-hand reefs and point breaks, it draws surfers when the beaches of the south-west are under the monsoon.",
       "tags": ["arugam bay", "surf", "beach", "nature"],
-      "star": 4
+      "star": 4.7
     },
     {
       "id":8,
       "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
-      "location":"Hambantota",
+      "location":"hambantota",
       "title": "Yala National Park",
-      "description": "git remote add origin https://github.com/nuwandi/destinations-api.git",
+      "description": "Yala (යාල) National Park is the most visited and second largest national park in Sri Lanka, bordering the Indian Ocean.",
       "tags": ["hambantota","nature", "safari"],
-      "star": 4
+      "star": 4.9
     },
     {
       "id":9,
       "img":"https://glitterrebel.com/wp-content/uploads/2021/05/Galle-baach-2048x1536.jpg",
-      "location":"Galle",
+      "location":"galle",
       "title": "The jungle beach",
       "description": "Located west to Unawatuna, Jungle Beach is a pretty bay nestled in a forested area. It is one of the secret gems of Sri Lanka which has everything to make your holiday experience one of its kind. The place retains its pristine natural charm as it is not ventured by a large number of tourists throughout the year due to its secluded location.",
       "tags": ["galle", "beach", "nature"],
@@ -84,7 +84,7 @@
     {
         "id": 10,
         "img":"https://glitterrebel.com/wp-content/uploads/2021/05/Galle-baach-2048x1536.jpg",
-        "location":"Galle",
+        "location":"galle",
         "title": "Unawatuna Beach",
         "description": "Unawatuna is one of the biggest tourist destinations in Sri Lanka and is the most “famous” beach in the country. It is a lovely banana-shaped beach of golden sand and turquoise water, surrounded by green palm trees!",
         "tags": ["galle", "beach", "nature"],
@@ -93,7 +93,7 @@
     {
       "id": 11,
       "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
-      "location":"Colombo",
+      "location":"colombo",
       "title": "One Galle Face Mall",
       "shortDescription": "Colombo's first prestigious shopping development. A premier retail, entertainment and dining paradise to unite local and global shoppers",
       "tags": ["colombo", "food", "shopping"],
@@ -101,111 +101,111 @@
     },
     {
       "id": 12,
-      "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
-      "location":"Colombo",
+      "img":"https://static.toiimg.com/photo/msid-58379062,width-96,height-65.cms",
+      "location":"colombo",
       "title": "Nuga Gama",
-      "shortDescription": "git remote add origin https://github.com/nuwandi/destinations-api.git",
+      "shortDescription": "Made as an authentic Sri Lankan village from the past. Spicy, tasty and well prepared traditional Sinhala food. Live entertainment, with couple of musicians singing vintage songs.",
       "tags": ["colombo", "food"],
-      "star": 4.5
+      "star": 4.8
     },
     {
       "id": 13,
-      "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
-      "location":"Colombo",
+      "img":"https://1.bp.blogspot.com/-5dfr-iVdsrE/XUVvqQRVMiI/AAAAAAACiTk/c8PkoThLzAsReu5v_acgm6GS5AG9YDIEACLcBGAs/s1600/DSC05624-001.jpg",
+      "location":"colombo",
       "title": "Kaema Sutra",
-      "shortDescription": "git remote add origin https://github.com/nuwandi/destinations-api.git",
+      "shortDescription": "Sunsets are not to be missed at Kaema Sutra, located on the fourth floor of the Shangri-La Hotel, which boasts magnificent views over the shimmering Indian Ocean.",
       "tags": ["colombo", "food"],
       "star": 4.5
     },
     {
     "id": 14,
-      "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
-      "location":"Colombo",
+      "img":"https://d2eohwa6gpdg50.cloudfront.net/wp-content/uploads/2020/01/30171212/Crab_0015.jpg",
+      "location":"colombo",
       "title": "Ministry of Crab",
-      "shortDescription": "git remote add origin https://github.com/nuwandi/destinations-api.git",
+      "shortDescription": "Ministry of Crab was created as a culinary homecoming of Sri Lanka’s legendary lagoon crab, which has long gained popularity outside of the island.",
       "tags": ["colombo", "food"],
       "star": 4.5
     },
     {
       "id": 15,
-      "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
-      "location":"Galle",
+      "img":"https://cyberoctane.com/img/projects/hoppa_branding/hoppa_branding_cover.jpg",
+      "location":"galle",
       "title": "Hoppa Galle Fort",
-      "shortDescription": "",
+      "shortDescription": "A restaurant offering authentic Sri Lankan food with a twist in a contemporary, cozy setting.",
       "tags": ["galle", "food"],
       "star": 4.5
     },
     {
       "id":16,
-      "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
-      "location":"Colombo",
-      "title": "Gangaramaya Buddhist Temple",
-      "shortDescription": "Port City Colombo is a brand new city development built as an extension of the Central Business District of Sri Lanka’s vibrant commercial capital, Colombo. Spanning 269 hectares of reclaimed land from the sea, Port City Colombo will be South Asia’s premiere residential, retail and business destination, offering unmatched planned city living along the warm waters of the Indian Ocean.",
-      "tags": ["colombo", "heritage", "buddhism"],
+      "img":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Public_Library%2C_Jaffna.JPG",
+      "location":"jaffna",
+      "title": "Jaffna Library",
+      "shortDescription": "First built in 1933, the Jaffna Library has long been a symbol of northern heritage, making it one of the largest libraries in Asia.",
+      "tags": ["jaffna", "heritage"],
       "star": 4.6
     },
     {
       "id": 17,
-      "img":"https://www.cercledesvoyages.com/wp-content/webp-express/webp-images/uploads/2020/12/pm_8002_106_106798-ibqc5cn6qp-5062-1.jpeg.webp",
-      "location":"Nuwara Eliya",
-      "title": "St. Clair's Falls",
-      "description": "",
-      "tags": "",
-      "star": 4
+      "img":"https://media.tacdn.com/media/attractions-splice-spp-674x446/09/23/78/0f.jpg",
+      "location":"nuwara eliya",
+      "title": "Adam's Peak",
+      "description": "Adam’s Peak or the Sri Pada is an important pilgrim site. Buddhist believe the impression on the summit is the footprint of lord Buddha himself.",
+      "tags": ["nuwara eliya", "nature", "heritage", "buddhism"],
+      "star": 4.7
     },
     {
       "id": 18,
-      "img":"https://www.unpasseportencavale.com/assets1pec/uploads/2019/09/Copyright2019_Un_Passeport_En_Cavale_Sri_Lank_Passikudah_Tous_Droits_R%C3%A9serv%C3%A9s_52.jpg",
-      "location":"Trinquemalay",
+      "img":"https://api.tripigee.com/images/d48f7f98-ae57-44e0-b723-31badc4d38f2.webp",
+      "location":"trinquemalay",
       "title": "Nilaveli Beach",
-      "description": "",
-      "tags": "",
-      "star": 4
+      "description": "Nilaveli (Open-land of the moon-shine) is located north-west of the Island. It is one of the most beautiful beaches in Sri Lanka renowned for its soft white sand and breath-taking bays.",
+      "tags": ["trinquemalay", "nature", "beach"],
+      "star": 4.9
     },
     {
       "id": 19,
-      "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
-      "location":"Kegalle",
+      "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5b/ae/47/the-orphanage-was-founded.jpg?w=1200&h=-1&s=1",
+      "location":"kegalle",
       "title": "Pinnawala",
-      "description": "",
-      "tags": ["nature", "safari"],
-      "star": 4
+      "description": "Known for its Elephant orphanage, Pinnawal has earned its fame among all the travelers that are paying a visit to Sri Lanka.",
+      "tags": ["kegalle", "nature", "safari"],
+      "star": 4.6
     },
     {
       "id":20,
-      "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
-      "location":"Colombo",
-      "title": "Colombo Port City",
-      "shortDescription": "Port City Colombo is a brand new city development built as an extension of the Central Business District of Sri Lanka’s vibrant commercial capital, Colombo. Spanning 269 hectares of reclaimed land from the sea, Port City Colombo will be South Asia’s premiere residential, retail and business destination, offering unmatched planned city living along the warm waters of the Indian Ocean.",
-      "tags": ["colombo", "beach", "food", "shopping"],
+      "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/43/a0/61/nallur-kovil-jaffnamost.jpg?w=1200&h=1200&s=1",
+      "location":"jaffna",
+      "title": "Nallur Kovil",
+      "shortDescription": "The Nallur Kandaswamy Kovil is one of Jaffna’s most significant Hindu temples.",
+      "tags": ["jaffna", "heritage", "hindu"],
       "star": 4.8
     },
     {
       "id": 21,
       "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
-      "location":"Polonnaruwa",
+      "location":"polonnaruwa",
       "title": "Minneriya National Park",
-      "description": "",
-      "tags": ["nature", "safari"],
-      "star": 4
+      "description": "Minneriya National Park is place for witness the largest Asian elephant gathering.",
+      "tags": ["polonnaruwa", "nature", "safari"],
+      "star": 4.8
     },
     {
       "id": 22,
-      "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
-      "location":"Polonnaruwa",
-      "title": "Archeologic Site",
-      "description": "",
-      "tags": ["nature", "heritage", "buddhism"],
-      "star": 4
+      "img":"https://www.tropicalement-votre.com/dests/sri_lanka/temple-polannaruwa.jpg",
+      "location":"polonnaruwa",
+      "title": "Polonnaruwa Archeologic Site",
+      "description": "Polonnaruwa was the second capital of Sri Lanka after the destruction of Anuradhapura in 993.",
+      "tags": ["polonnaruwa", "nature", "heritage", "buddhism"],
+      "star": 4.7
     },
     {
       "id": 23,
-      "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
-      "location":"Matale",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Beauty_of_Sigiriya_by_Binuka.jpg",
+      "location":"matale",
       "title": "Sigiriya Rock",
-      "description": "",
-      "tags": ["nature", "heritage"],
-      "star": 4
+      "description": "Sigiriya is famous for its palace ruins on top of a massive 200 meter high rock surrounded by the remains of an extensive network of gardens, reservoirs and other structures.",
+      "tags": ["matale", "nature", "heritage"],
+      "star": 4.7
     }
   ]
 }
