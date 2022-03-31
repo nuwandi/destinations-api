@@ -1,0 +1,1260 @@
+{
+    "destinations": [
+      {
+        "id":1,
+        "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
+        "location":"Colombo",
+        "title": "Colombo Port City",
+        "shortDescription": "Port City Colombo is a brand new city development built as an extension of the Central Business District of Sri Lanka’s vibrant commercial capital, Colombo. Spanning 269 hectares of reclaimed land from the sea, Port City Colombo will be South Asia’s premiere residential, retail and business destination, offering unmatched planned city living along the warm waters of the Indian Ocean.",
+        "tags": ["colombo", "beach", "food", "shopping"],
+        "star": 4.8,
+        "details": {
+          "img2": "https://newsradio.lk/wp-content/uploads/2022/01/Port-City-Marina-Promenade.jpeg",
+          "img3": "https://www.ceylonexpeditions.com/medias/media/big/664/270129507-2134848810023552-1535996083094351030-n-1.jpg",
+          "fullDescription": "Comprising 269 hectares, Port City Colombo is a new city development built as an extension of the existing Colombo Central Business District (CBD). The Financial District and Marina District make up the central area of Port City. When complete in 2041, the master plan will transform Port City Colombo into a hub for commerce, tourism, and culture in South Asia. A new cultural venue placed at the seafront and immediately adjacent to the CBD of Port City Colombo will encourage people to gravitate toward the waterfront and create an iconic backdrop to the marina.",
+          "latitude": 6.9320915,
+          "longitude": 79.8238651,
+          "zoom": 15,
+          "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+          "hotels" : [
+            {
+              "id": 1,
+              "name": "The Kingsbury",
+              "img": "https://www.dailynews.lk/sites/default/files/news/2019/04/24/z_pi-Kingsbury.jpg",
+              "price": 83,
+              "star": 4.5
+            },
+            {
+              "id": 2,
+              "name": "Shangri-La Hotel",
+              "img": "https://www.dailynews.lk/sites/default/files/news/2019/06/12/z_T%26C-p27-SHANGRI-LA-01.jpg",
+              "price": 176,
+              "star": 4.6
+            },
+            {
+              "id": 3,
+              "name": "Hotel Galadari",
+              "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/80043638.jpg?k=e71cfeccccd35d54ba5272323e199a217e11133c087a6895112571490da6acdd&o=&hp=1",
+              "price": 50,
+              "star": 4.3
+            }
+          ],
+          "food": [],
+          "nearbyPlace": [
+            {
+              "id": 1,
+              "name": "Colombo National Museum",
+              "img": ""
+            },
+            {
+              "id": 2,
+              "name": "Viharamahadevi Park",
+              "img": ""
+            },
+            {
+              "id": 3,
+              "name": "Gangarama Buddhist Temple",
+              "img": ""
+            }
+          ]
+        }
+      },
+      {
+      "id":2,
+      "img":"https://voyage.tv5monde.com/sites/default/files/galle-vue-du-ciel-werner-bayer.jpg",
+      "location":"Galle",
+      "title": "Galle Dutch Fort",
+      "description": "Galle Fort, in the Bay of Galle on the southwest coast of Sri Lanka, was built first in 1588 by the Portuguese, then extensively fortified by the Dutch during the 17th century from 1649 onwards. It is a historical, archaeological and architectural heritage monument, which even after more than 423 years maintains a polished appearance, due to extensive reconstruction work done by Archaeological Department of Sri Lanka.",
+      "tags": ["galle", "beach", "nature", "heritage"],
+      "star": 4.8,
+      "details": {
+        "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+        "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+        "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+        "latitude": 6.0268701,
+        "longitude": 80.2128711,
+        "zoom": 15,
+        "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+        "hotels" : [
+          {
+            "id": 1,
+            "name": "Amari Galle Sri Lanka",
+            "img": "",
+            "price": 134,
+            "star": 4.5
+          },
+          {
+            "id": 2,
+            "name": "Jetwing Lighthouse",
+            "img": "",
+            "price": 245,
+            "star": 4.5
+          },
+          {
+            "id": 3,
+            "name": "Le Grand Galle",
+            "img": "",
+            "price": 146,
+            "star": 4.5
+          }
+        ],
+        "food": [],
+        "nearbyPlace": []
+      }
+      },
+      {
+      "id":3,
+      "img":"https://upload.wikimedia.org/wikipedia/commons/5/56/Sri_Lanka_-_029_-_Kandy_Temple_of_the_Tooth.jpg",
+      "location":"Kandy",
+      "title": "Temple of the Sacred Tooth Relic",
+      "description": "he Temple of the Sacred Tooth Relic is a world-renowned place of worship, where the left Canine tooth of Gautama Buddha is enshrined.",
+      "tags": ["heritage", "kandy", "buddhism"],
+      "star": 4.7,
+      "details": {
+        "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+        "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+        "fullDescription": "The Temple of the Sacred Tooth Relic is a world-renowned place of worship, where the left Canine tooth of Gautama Buddha is enshrined. The temple which is venerated by thousands of local & foreign devotees and tourists daily was named as a world heritage by  UNESCO  in 1988. The temple which carries a lot of value to Buddhists all over the world also has immense cultural value. The architecture is of unique Kandyan architectural style with a combination of the unique style used to build “Dalada Mandira” the shrines which housed the Sacred Tooth Relic previously in other kingdoms.",
+        "latitude": 7.293609,
+        "longitude": 80.6391363,
+        "zoom": 17,
+        "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+        "hotels" : [
+          {
+            "id": 1,
+            "name": "The Grand Kandyan Hotel",
+            "img": "",
+            "price": 91,
+            "star": 4.5
+          },
+          {
+            "id": 2,
+            "name": "OZO Kandy Sri Lanka",
+            "img": "",
+            "price": 66,
+            "star": 4.4
+          },
+          {
+            "id": 3,
+            "name": "Mount Blue Kandy",
+            "img": "",
+            "price": 69,
+            "star": 4.4
+          }
+        ],
+        "food": [],
+        "nearbyPlace": []
+      }
+      },
+      {
+      "id":4,
+      "img":"https://www.cercledesvoyages.com/wp-content/webp-express/webp-images/uploads/2020/12/pm_8002_106_106798-ibqc5cn6qp-5062-1.jpeg.webp",
+      "location":"Nuwara Eliya",
+      "title": "Horton Plains National Park",
+      "description": "",
+      "tags": "",
+      "star": 4,
+      "details": {
+        "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+        "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+        "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+        "latitude": 6.0268701,
+        "longitude": 80.2128711,
+        "zoom": 15,
+        "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+        "hotels" : [
+          {
+            "id": 1,
+            "name": "Amari Galle Sri Lanka",
+            "img": "",
+            "price": 134,
+            "star": 4.5
+          },
+          {
+            "id": 2,
+            "name": "Jetwing Lighthouse",
+            "img": "",
+            "price": 245,
+            "star": 4.5
+          },
+          {
+            "id": 3,
+            "name": "Le Grand Galle",
+            "img": "",
+            "price": 146,
+            "star": 4.5
+          }
+        ],
+        "food": [],
+        "nearbyPlace": [
+          {
+            "id": 1,
+            "name": "Pedro Tea Factory"
+          },
+          {
+            "id": 2,
+            "name": "Bomburu Ella Waterfall"
+          }
+        ]
+      }
+      },
+      {
+      "id":5,
+      "img":"https://cdn.statically.io/img/asianwanderlust.com/f=auto%2Cq=20/wp-content/uploads/2019/03/Ella-Sri-Lanka-pont-neuf-arches-nine-arches-bridge.jpg",
+      "location":"Ella",
+      "title": "",
+      "description": "",
+      "tags": "",
+      "star": 4,
+      "details": {
+        "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+        "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+        "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+        "latitude": 6.0268701,
+        "longitude": 80.2128711,
+        "zoom": 15,
+        "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+        "hotels" : [
+          {
+            "id": 1,
+            "name": "Amari Galle Sri Lanka",
+            "img": "",
+            "price": 134,
+            "star": 4.5
+          },
+          {
+            "id": 2,
+            "name": "Jetwing Lighthouse",
+            "img": "",
+            "price": 245,
+            "star": 4.5
+          },
+          {
+            "id": 3,
+            "name": "Le Grand Galle",
+            "img": "",
+            "price": 146,
+            "star": 4.5
+          }
+        ],
+        "food": [],
+        "nearbyPlace": []
+      }
+      },
+      {
+      "id":6,
+      "img":"https://www.unpasseportencavale.com/assets1pec/uploads/2019/09/Copyright2019_Un_Passeport_En_Cavale_Sri_Lank_Passikudah_Tous_Droits_R%C3%A9serv%C3%A9s_52.jpg",
+      "location":"Batticaloa",
+      "title": "Passikudah Beach",
+      "description": "",
+      "tags": "",
+      "star": 4,
+      "details": {
+        "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+        "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+        "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+        "latitude": 6.0268701,
+        "longitude": 80.2128711,
+        "zoom": 15,
+        "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+        "hotels" : [
+          {
+            "id": 1,
+            "name": "Amari Galle Sri Lanka",
+            "img": "",
+            "price": 134,
+            "star": 4.5
+          },
+          {
+            "id": 2,
+            "name": "Jetwing Lighthouse",
+            "img": "",
+            "price": 245,
+            "star": 4.5
+          },
+          {
+            "id": 3,
+            "name": "Le Grand Galle",
+            "img": "",
+            "price": 146,
+            "star": 4.5
+          }
+        ],
+        "food": [],
+        "nearbyPlace": []
+      }
+      },
+      {
+      "id":7,
+      "img":"https://www.srilankatravelandtourism.com/places-sri-lanka/arugam-bay/arugam-bay-images/arugam-bay-3-sri-lanka.jpg",
+      "location":"Arugam Bay",
+      "title": "Arugam Bay Surf",
+      "description": "",
+      "tags": "",
+      "star": 4,
+      "details": {
+        "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+        "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+        "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+        "latitude": 6.0268701,
+        "longitude": 80.2128711,
+        "zoom": 15,
+        "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+        "hotels" : [
+          {
+            "id": 1,
+            "name": "Amari Galle Sri Lanka",
+            "img": "",
+            "price": 134,
+            "star": 4.5
+          },
+          {
+            "id": 2,
+            "name": "Jetwing Lighthouse",
+            "img": "",
+            "price": 245,
+            "star": 4.5
+          },
+          {
+            "id": 3,
+            "name": "Le Grand Galle",
+            "img": "",
+            "price": 146,
+            "star": 4.5
+          }
+        ],
+        "food": [],
+        "nearbyPlace": []
+      }
+      },
+      {
+      "id":8,
+      "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
+      "location":"Hambantota",
+      "title": "Yala National Park",
+      "description": "",
+      "tags": "nature, safari",
+      "star": 4,
+      "details": {
+        "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+        "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+        "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+        "latitude": 6.0268701,
+        "longitude": 80.2128711,
+        "zoom": 15,
+        "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+        "hotels" : [
+          {
+            "id": 1,
+            "name": "Amari Galle Sri Lanka",
+            "img": "",
+            "price": 134,
+            "star": 4.5
+          },
+          {
+            "id": 2,
+            "name": "Jetwing Lighthouse",
+            "img": "",
+            "price": 245,
+            "star": 4.5
+          },
+          {
+            "id": 3,
+            "name": "Le Grand Galle",
+            "img": "",
+            "price": 146,
+            "star": 4.5
+          }
+        ],
+        "food": [],
+        "nearbyPlace": []
+      }
+      },
+      {
+      "id":9,
+      "img":"https://glitterrebel.com/wp-content/uploads/2021/05/Galle-baach-2048x1536.jpg",
+      "location":"Galle",
+      "title": "The jungle beach",
+      "description": "Located west to Unawatuna, Jungle Beach is a pretty bay nestled in a forested area. It is one of the secret gems of Sri Lanka which has everything to make your holiday experience one of its kind. The place retains its pristine natural charm as it is not ventured by a large number of tourists throughout the year due to its secluded location.",
+      "tags": ["galle", "beach", "nature"],
+      "star": 5,
+      "details": {
+        "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+        "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+        "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+        "latitude": 6.0268701,
+        "longitude": 80.2128711,
+        "zoom": 15,
+        "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+        "hotels" : [
+          {
+            "id": 1,
+            "name": "Jungle Village",
+            "img": "",
+            "price": 78,
+            "star": 4.2
+          },
+          {
+            "id": 2,
+            "name": "Levels Unawatuna",
+            "img": "",
+            "price": 69,
+            "star": 4.3
+          },
+          {
+            "id": 3,
+            "name": "Le Grand Galle",
+            "img": "",
+            "price": 146,
+            "star": 4.5
+          }
+        ],
+        "food": [],
+        "nearbyPlace": []
+      }
+      },
+      {
+          "id": 10,
+          "img":"https://glitterrebel.com/wp-content/uploads/2021/05/Galle-baach-2048x1536.jpg",
+          "location":"Galle",
+          "title": "Unawatuna Beach",
+          "description": "Unawatuna is one of the biggest tourist destinations in Sri Lanka and is the most “famous” beach in the country. It is a lovely banana-shaped beach of golden sand and turquoise water, surrounded by green palm trees!",
+          "tags": ["galle", "beach", "nature"],
+          "star": 5,
+          "details": {
+            "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+            "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+            "fullDescription": "Unawatuna is a coastal town in Galle district of Sri Lanka. Unawatuna is a major tourist attraction in Sri Lanka and known for its beach and corals. On this list of best beaches in Sri Lanka, a name sure to appear is Unawatuna Beach. Just an hour away from Sri Lanka’s capital city, Colombo, this beach is a heaven for beach bums. With fancy restaurants, bars, shacks, beach properties, shopping streets and fun activities worth engaging in that are carried out in the surrounding areas, Unawatuna beach is a great spot to unwind, ditching the routine.",
+            "latitude": 6.0080907,
+            "longitude": 80.2456051,
+            "zoom": 17,
+            "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+            "hotels" : [
+              {
+                "id": 1,
+                "name": "Tartaruga Hotel",
+                "img": "",
+                "price": 77,
+                "star": 4
+              },
+              {
+                "id": 2,
+                "name": "Levels Unawatuna",
+                "img": "",
+                "price": 69,
+                "star": 4.3
+              },
+              {
+                "id": 3,
+                "name": "Toddy by Hoppa",
+                "img": "",
+                "price": 41,
+                "star": 4.1
+              }
+            ],
+            "food": [],
+            "nearbyPlace": []
+          }
+      },
+      {
+      "id": 11,
+      "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
+      "location":"Colombo",
+      "title": "One Galle Face Mall",
+      "shortDescription": "Colombo's first prestigious shopping development. A premier retail, entertainment and dining paradise to unite local and global shoppers",
+      "tags": ["colombo", "food", "shopping"],
+      "star": 4.7,
+      "details": {
+      "img2": "https://newsradio.lk/wp-content/uploads/2022/01/Port-City-Marina-Promenade.jpeg",
+      "img3": "https://www.ceylonexpeditions.com/medias/media/big/664/270129507-2134848810023552-1535996083094351030-n-1.jpg",
+      "fullDescription": "One Galle Face Mall is one of the most popular shopping malls in Colombo, Sri Lanka. It is located opposite the famous Galle Face Green and adjacent to Shangri-La Colombo. One Galle Face Mall was opened in November 2019. The mall offers a modern cinema complex as well. The Food Court offers both local and international cuisine options. There you can enjoy a delicious meal while visiting the mall.",
+      "latitude": 6.9273121,
+      "longitude": 79.8450819,
+      "zoom": 15,
+      "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+      "hotels" : [
+        {
+          "id": 1,
+          "name": "The Kingsbury",
+          "img": "",
+          "price": 83,
+          "star": 4.5
+        },
+        {
+          "id": 2,
+          "name": "Shangri-La Hotel",
+          "img": "",
+          "price": 176,
+          "star": 4.6
+        },
+        {
+          "id": 3,
+          "name": "Hotel Galadari",
+          "img": "",
+          "price": 50,
+          "star": 4.3
+        }
+      ],
+      "food": [
+        {
+          "id": 1,
+          "name": "One Galle Face food court",
+          "img": "",
+          "cuisine": ["local", "international"]
+        }
+      ],
+      "nearbyPlace": []
+      }
+      },
+      {
+      "id": 12,
+      "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
+      "location":"Colombo",
+      "title": "Nuga Gama",
+      "shortDescription": "",
+      "tags": ["colombo", "food"],
+      "star": 4.5,
+      "details": {
+      "img2": "https://newsradio.lk/wp-content/uploads/2022/01/Port-City-Marina-Promenade.jpeg",
+      "img3": "https://www.ceylonexpeditions.com/medias/media/big/664/270129507-2134848810023552-1535996083094351030-n-1.jpg",
+      "fullDescription": "",
+      "latitude": 6.9273121,
+      "longitude": 79.8450819,
+      "zoom": 15,
+      "address": "77 Galle Road, Colombo Sri Lanka",
+      "hotels" : [],
+      "food": [],
+      "nearbyPlace": []
+      }
+      },
+      {
+      "id": 13,
+      "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
+      "location":"Colombo",
+      "title": "Kaema Sutra",
+      "shortDescription": "",
+      "tags": ["colombo", "food"],
+      "star": 4.5,
+      "details": {
+      "img2": "https://newsradio.lk/wp-content/uploads/2022/01/Port-City-Marina-Promenade.jpeg",
+      "img3": "https://www.ceylonexpeditions.com/medias/media/big/664/270129507-2134848810023552-1535996083094351030-n-1.jpg",
+      "fullDescription": "",
+      "latitude": 6.9273121,
+      "longitude": 79.8450819,
+      "zoom": 15,
+      "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+      "hotels" : [],
+      "food": [],
+      "nearbyPlace": []
+      }
+      },
+      {
+      "id": 14,
+      "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
+      "location":"Colombo",
+      "title": "Ministry of Crab",
+      "shortDescription": "",
+      "tags": ["colombo", "food"],
+      "star": 4.5,
+      "details": {
+      "img2": "https://newsradio.lk/wp-content/uploads/2022/01/Port-City-Marina-Promenade.jpeg",
+      "img3": "https://www.ceylonexpeditions.com/medias/media/big/664/270129507-2134848810023552-1535996083094351030-n-1.jpg",
+      "fullDescription": "",
+      "latitude": 6.9273121,
+      "longitude": 79.8450819,
+      "zoom": 15,
+      "address": "Old Dutch Hospital, Colombo Sri Lanka",
+      "hotels" : [],
+      "food": [],
+      "nearbyPlace": []
+      }
+      },
+      {
+      "id": 15,
+      "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
+      "location":"Galle",
+      "title": "Hoppa Galle Fort",
+      "shortDescription": "",
+      "tags": ["galle", "food"],
+      "star": 4.5,
+      "details": {
+      "img2": "https://newsradio.lk/wp-content/uploads/2022/01/Port-City-Marina-Promenade.jpeg",
+      "img3": "https://www.ceylonexpeditions.com/medias/media/big/664/270129507-2134848810023552-1535996083094351030-n-1.jpg",
+      "fullDescription": "",
+      "latitude": 6.9273121,
+      "longitude": 79.8450819,
+      "zoom": 15,
+      "address": "20 Pedlar Street, Galle 80000 Sri Lanka",
+      "hotels" : [],
+      "food": [],
+      "nearbyPlace": []
+      }
+      },
+      {
+      "id":16,
+      "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
+      "location":"Colombo",
+      "title": "Gangaramaya Buddhist Temple",
+      "shortDescription": "Port City Colombo is a brand new city development built as an extension of the Central Business District of Sri Lanka’s vibrant commercial capital, Colombo. Spanning 269 hectares of reclaimed land from the sea, Port City Colombo will be South Asia’s premiere residential, retail and business destination, offering unmatched planned city living along the warm waters of the Indian Ocean.",
+      "tags": ["colombo", "heritage", "buddhism"],
+      "star": 4.6,
+      "details": {
+      "img2": "https://newsradio.lk/wp-content/uploads/2022/01/Port-City-Marina-Promenade.jpeg",
+      "img3": "https://www.ceylonexpeditions.com/medias/media/big/664/270129507-2134848810023552-1535996083094351030-n-1.jpg",
+      "fullDescription": "Comprising 269 hectares, Port City Colombo is a new city development built as an extension of the existing Colombo Central Business District (CBD). The Financial District and Marina District make up the central area of Port City. When complete in 2041, the master plan will transform Port City Colombo into a hub for commerce, tourism, and culture in South Asia. A new cultural venue placed at the seafront and immediately adjacent to the CBD of Port City Colombo will encourage people to gravitate toward the waterfront and create an iconic backdrop to the marina.",
+      "latitude": 6.9320915,
+      "longitude": 79.8238651,
+      "zoom": 15,
+      "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+      "hotels" : [
+        {
+          "id": 1,
+          "name": "The Kingsbury",
+          "img": "",
+          "price": 83,
+          "star": 4.5
+        },
+        {
+          "id": 2,
+          "name": "Shangri-La Hotel",
+          "img": "",
+          "price": 176,
+          "star": 4.6
+        },
+        {
+          "id": 3,
+          "name": "Hotel Galadari",
+          "img": "",
+          "price": 50,
+          "star": 4.3
+        }
+      ],
+      "nearbyPlace": [
+        {
+          "id": 1,
+          "name": "Colombo National Museum"
+        },
+        {
+          "id": 2,
+          "name": "Viharamahadevi Park"
+        },
+        {
+          "id": 3,
+          "name": "Temple of Sri Kailawasanathan Swami Devasthanam Kovil"
+        }
+      ]
+      }
+      },
+      {
+      "id": 17,
+      "img":"https://www.cercledesvoyages.com/wp-content/webp-express/webp-images/uploads/2020/12/pm_8002_106_106798-ibqc5cn6qp-5062-1.jpeg.webp",
+      "location":"Nuwara Eliya",
+      "title": "St. Clair's Falls",
+      "description": "",
+      "tags": "",
+      "star": 4,
+      "details": {
+      "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+      "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+      "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+      "latitude": 6.0268701,
+      "longitude": 80.2128711,
+      "zoom": 15,
+      "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+      "hotels" : [
+        {
+          "id": 1,
+          "name": "Amari Galle Sri Lanka",
+          "img": "",
+          "price": 134,
+          "star": 4.5
+        },
+        {
+          "id": 2,
+          "name": "Jetwing Lighthouse",
+          "img": "",
+          "price": 245,
+          "star": 4.5
+        },
+        {
+          "id": 3,
+          "name": "Le Grand Galle",
+          "img": "",
+          "price": 146,
+          "star": 4.5
+        }
+      ],
+      "food": [],
+      "nearbyPlace": [
+        {
+          "id": 1,
+          "name": "Devon Falls"
+        }
+      ]
+      }
+      },
+      {
+      "id": 18,
+      "img":"https://www.unpasseportencavale.com/assets1pec/uploads/2019/09/Copyright2019_Un_Passeport_En_Cavale_Sri_Lank_Passikudah_Tous_Droits_R%C3%A9serv%C3%A9s_52.jpg",
+      "location":"Trinquemalay",
+      "title": "Nilaveli Beach",
+      "description": "",
+      "tags": "",
+      "star": 4,
+      "details": {
+      "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+      "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+      "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+      "latitude": 6.0268701,
+      "longitude": 80.2128711,
+      "zoom": 15,
+      "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+      "hotels" : [
+        {
+          "id": 1,
+          "name": "Amari Galle Sri Lanka",
+          "img": "",
+          "price": 134,
+          "star": 4.5
+        },
+        {
+          "id": 2,
+          "name": "Jetwing Lighthouse",
+          "img": "",
+          "price": 245,
+          "star": 4.5
+        },
+        {
+          "id": 3,
+          "name": "Le Grand Galle",
+          "img": "",
+          "price": 146,
+          "star": 4.5
+        }
+      ],
+      "food": [],
+      "nearbyPlace": [
+        {
+          "id": 1,
+          "name": "Pigeon Island"
+        }
+      ]
+      }
+      },
+      {
+      "id": 19,
+      "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
+      "location":"Kegalle",
+      "title": "Pinnawala",
+      "description": "",
+      "tags": ["nature", "safari"],
+      "star": 4,
+      "details": {
+      "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+      "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+      "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+      "latitude": 6.0268701,
+      "longitude": 80.2128711,
+      "zoom": 15,
+      "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+      "hotels" : [
+        {
+          "id": 1,
+          "name": "Amari Galle Sri Lanka",
+          "img": "",
+          "price": 134,
+          "star": 4.5
+        },
+        {
+          "id": 2,
+          "name": "Jetwing Lighthouse",
+          "img": "",
+          "price": 245,
+          "star": 4.5
+        },
+        {
+          "id": 3,
+          "name": "Le Grand Galle",
+          "img": "",
+          "price": 146,
+          "star": 4.5
+        }
+      ],
+      "food": [],
+      "nearbyPlace": []
+      }
+      },
+      {
+        "id":20,
+        "img":"https://www.andbeyond.com/wp-content/uploads/sites/5/colombo-sri-lanka.jpg",
+        "location":"Colombo",
+        "title": "Colombo Port City",
+        "shortDescription": "Port City Colombo is a brand new city development built as an extension of the Central Business District of Sri Lanka’s vibrant commercial capital, Colombo. Spanning 269 hectares of reclaimed land from the sea, Port City Colombo will be South Asia’s premiere residential, retail and business destination, offering unmatched planned city living along the warm waters of the Indian Ocean.",
+        "tags": ["colombo", "beach", "food", "shopping"],
+        "star": 4.8,
+        "details": {
+          "img2": "https://newsradio.lk/wp-content/uploads/2022/01/Port-City-Marina-Promenade.jpeg",
+          "img3": "https://www.ceylonexpeditions.com/medias/media/big/664/270129507-2134848810023552-1535996083094351030-n-1.jpg",
+          "fullDescription": "Comprising 269 hectares, Port City Colombo is a new city development built as an extension of the existing Colombo Central Business District (CBD). The Financial District and Marina District make up the central area of Port City. When complete in 2041, the master plan will transform Port City Colombo into a hub for commerce, tourism, and culture in South Asia. A new cultural venue placed at the seafront and immediately adjacent to the CBD of Port City Colombo will encourage people to gravitate toward the waterfront and create an iconic backdrop to the marina.",
+          "latitude": 6.9320915,
+          "longitude": 79.8238651,
+          "zoom": 15,
+          "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+          "hotels" : [
+            {
+              "id": 1,
+              "name": "The Kingsbury",
+              "img": "",
+              "price": 83,
+              "star": 4.5
+            },
+            {
+              "id": 2,
+              "name": "Shangri-La Hotel",
+              "img": "",
+              "price": 176,
+              "star": 4.6
+            },
+            {
+              "id": 3,
+              "name": "Hotel Galadari",
+              "img": "",
+              "price": 50,
+              "star": 4.3
+            }
+          ],
+          "food": [],
+          "nearbyPlace": []
+        }
+      },
+      {
+      "id": 21,
+      "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
+      "location":"Polonnaruwa",
+      "title": "Minneriya National Park",
+      "description": "",
+      "tags": ["nature", "safari"],
+      "star": 4,
+      "details": {
+      "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+      "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+      "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+      "latitude": 6.0268701,
+      "longitude": 80.2128711,
+      "zoom": 15,
+      "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+      "hotels" : [
+        {
+          "id": 1,
+          "name": "Amari Galle Sri Lanka",
+          "img": "",
+          "price": 134,
+          "star": 4.5
+        },
+        {
+          "id": 2,
+          "name": "Jetwing Lighthouse",
+          "img": "",
+          "price": 245,
+          "star": 4.5
+        },
+        {
+          "id": 3,
+          "name": "Le Grand Galle",
+          "img": "",
+          "price": 146,
+          "star": 4.5
+        }
+      ],
+      "food": [],
+      "nearbyPlace": []
+      }
+      },
+      {
+        "id": 22,
+        "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
+        "location":"Polonnaruwa",
+        "title": "Archeologic Site",
+        "description": "",
+        "tags": ["nature", "heritage", "buddhism"],
+        "star": 4,
+        "details": {
+        "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+        "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+        "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+        "latitude": 6.0268701,
+        "longitude": 80.2128711,
+        "zoom": 15,
+        "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+        "hotels" : [
+          {
+            "id": 1,
+            "name": "Amari Galle Sri Lanka",
+            "img": "",
+            "price": 134,
+            "star": 4.5
+          },
+          {
+            "id": 2,
+            "name": "Jetwing Lighthouse",
+            "img": "",
+            "price": 245,
+            "star": 4.5
+          },
+          {
+            "id": 3,
+            "name": "Le Grand Galle",
+            "img": "",
+            "price": 146,
+            "star": 4.5
+          }
+        ],
+        "food": [],
+        "nearbyPlace": []
+        }
+      },
+      {
+        "id": 23,
+        "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
+        "location":"Matale",
+        "title": "Sigiriya Rock",
+        "description": "",
+        "tags": ["nature", "heritage"],
+        "star": 4,
+        "details": {
+        "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+        "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+        "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+        "latitude": 6.0268701,
+        "longitude": 80.2128711,
+        "zoom": 15,
+        "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+        "hotels" : [
+          {
+            "id": 1,
+            "name": "Amari Galle Sri Lanka",
+            "img": "",
+            "price": 134,
+            "star": 4.5
+          },
+          {
+            "id": 2,
+            "name": "Jetwing Lighthouse",
+            "img": "",
+            "price": 245,
+            "star": 4.5
+          },
+          {
+            "id": 3,
+            "name": "Le Grand Galle",
+            "img": "",
+            "price": 146,
+            "star": 4.5
+          }
+        ],
+        "food": [],
+        "nearbyPlace": []
+        }
+      },
+      {
+        "id": 24,
+        "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
+        "location":"Nuwara Eliya",
+        "title": "Adam's Peak",
+        "description": "",
+        "tags": ["nature", "heritage", "buddhism"],
+        "star": 4,
+        "details": {
+        "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+        "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+        "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+        "latitude": 6.0268701,
+        "longitude": 80.2128711,
+        "zoom": 15,
+        "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+        "hotels" : [
+          {
+            "id": 1,
+            "name": "Amari Galle Sri Lanka",
+            "img": "",
+            "price": 134,
+            "star": 4.5
+          },
+          {
+            "id": 2,
+            "name": "Jetwing Lighthouse",
+            "img": "",
+            "price": 245,
+            "star": 4.5
+          },
+          {
+            "id": 3,
+            "name": "Le Grand Galle",
+            "img": "",
+            "price": 146,
+            "star": 4.5
+          }
+        ],
+        "food": [],
+        "nearbyPlace": []
+        }
+      },
+      {
+        "id": 25,
+        "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
+        "location":"Jaffna",
+        "title": "Nallur Kovil",
+        "description": "",
+        "tags": ["heritage", "hindu"],
+        "star": 4,
+        "details": {
+        "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+        "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+        "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+        "latitude": 6.0268701,
+        "longitude": 80.2128711,
+        "zoom": 15,
+        "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+        "hotels" : [
+          {
+            "id": 1,
+            "name": "Amari Galle Sri Lanka",
+            "img": "",
+            "price": 134,
+            "star": 4.5
+          },
+          {
+            "id": 2,
+            "name": "Jetwing Lighthouse",
+            "img": "",
+            "price": 245,
+            "star": 4.5
+          },
+          {
+            "id": 3,
+            "name": "Le Grand Galle",
+            "img": "",
+            "price": 146,
+            "star": 4.5
+          }
+        ],
+        "food": [],
+        "nearbyPlace": []
+        }
+      },
+      {
+        "id": 26,
+        "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
+        "location":"Jaffna",
+        "title": "Nagadipa",
+        "description": "",
+        "tags": ["heritage", "buddhism"],
+        "star": 4,
+        "details": {
+        "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+        "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+        "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+        "latitude": 6.0268701,
+        "longitude": 80.2128711,
+        "zoom": 15,
+        "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+        "hotels" : [
+          {
+            "id": 1,
+            "name": "Amari Galle Sri Lanka",
+            "img": "",
+            "price": 134,
+            "star": 4.5
+          },
+          {
+            "id": 2,
+            "name": "Jetwing Lighthouse",
+            "img": "",
+            "price": 245,
+            "star": 4.5
+          },
+          {
+            "id": 3,
+            "name": "Le Grand Galle",
+            "img": "",
+            "price": 146,
+            "star": 4.5
+          }
+        ],
+        "food": [],
+        "nearbyPlace": []
+        }
+      },
+      {
+        "id": 27,
+        "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
+        "location":"Jaffna",
+        "title": "Dutch Fort",
+        "description": "",
+        "tags": ["heritage", "jaffna"],
+        "star": 4,
+        "details": {
+        "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+        "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+        "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+        "latitude": 6.0268701,
+        "longitude": 80.2128711,
+        "zoom": 15,
+        "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+        "hotels" : [
+          {
+            "id": 1,
+            "name": "Amari Galle Sri Lanka",
+            "img": "",
+            "price": 134,
+            "star": 4.5
+          },
+          {
+            "id": 2,
+            "name": "Jetwing Lighthouse",
+            "img": "",
+            "price": 245,
+            "star": 4.5
+          },
+          {
+            "id": 3,
+            "name": "Le Grand Galle",
+            "img": "",
+            "price": 146,
+            "star": 4.5
+          }
+        ],
+        "food": [],
+        "nearbyPlace": []
+        }
+      },
+      {
+        "id": 28,
+        "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
+        "location":"Jaffna",
+        "title": "Jaffna Library",
+        "description": "",
+        "tags": ["heritage", "jaffna"],
+        "star": 4,
+        "details": {
+        "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+        "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+        "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+        "latitude": 6.0268701,
+        "longitude": 80.2128711,
+        "zoom": 15,
+        "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+        "hotels" : [
+          {
+            "id": 1,
+            "name": "Amari Galle Sri Lanka",
+            "img": "",
+            "price": 134,
+            "star": 4.5
+          },
+          {
+            "id": 2,
+            "name": "Jetwing Lighthouse",
+            "img": "",
+            "price": 245,
+            "star": 4.5
+          },
+          {
+            "id": 3,
+            "name": "Le Grand Galle",
+            "img": "",
+            "price": 146,
+            "star": 4.5
+          }
+        ],
+        "food": [],
+        "nearbyPlace": []
+        }
+      },
+      {
+        "id": 29,
+        "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
+        "location":"Jaffna",
+        "title": "Casuarina Beach",
+        "description": "",
+        "tags": ["beach", "jaffna"],
+        "star": 4,
+        "details": {
+        "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+        "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+        "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+        "latitude": 6.0268701,
+        "longitude": 80.2128711,
+        "zoom": 15,
+        "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+        "hotels" : [
+          {
+            "id": 1,
+            "name": "Amari Galle Sri Lanka",
+            "img": "",
+            "price": 134,
+            "star": 4.5
+          },
+          {
+            "id": 2,
+            "name": "Jetwing Lighthouse",
+            "img": "",
+            "price": 245,
+            "star": 4.5
+          },
+          {
+            "id": 3,
+            "name": "Le Grand Galle",
+            "img": "",
+            "price": 146,
+            "star": 4.5
+          }
+        ],
+        "food": [],
+        "nearbyPlace": []
+        }
+      },
+      {
+        "id": 30,
+        "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
+        "location":"Anuradhapura",
+        "title": "Ruwanwelisaya Buddhist Temple",
+        "description": "",
+        "tags": ["anuradhapura", "heritage", "buddhism"],
+        "star": 4,
+        "details": {
+        "img2": "https://static.vecteezy.com/ti/photos-gratuite/p1/2556444-galle-phare-et-cote-a-galle-sri-lanka-photo.jpg",
+        "img3": "https://assets.evcdn.net/pim-assets-images/27264/5e00ec4017945.jpeg",
+        "fullDescription": "The Galle Fort, or Dutch Fort as it is also known, is a fortification first built by the Portuguese on the Southwestern coast of Sri Lanka. The initial fortifications, which were built in the late 16th century, were quite basic. However, the fort underwent extensive modifications in the 17th century by the Dutch, making it one of the most important archeological, architectural and historic monuments to illustrate the European influence in South East Asia between the 16th and 19th centuries. According to a statement by UNESCO, the site was recognized as a World Heritage Site for its unique exposition of an urban ensemble which illustrates the interaction of European architecture and South Asian traditions from the 16th to the 19th centuries which is criterion number four for such recognition.",
+        "latitude": 6.0268701,
+        "longitude": 80.2128711,
+        "zoom": 15,
+        "address": "One Galle Face Shangri-La, Colombo 00200 Sri Lanka",
+        "hotels" : [
+          {
+            "id": 1,
+            "name": "Amari Galle Sri Lanka",
+            "img": "",
+            "price": 134,
+            "star": 4.5
+          },
+          {
+            "id": 2,
+            "name": "Jetwing Lighthouse",
+            "img": "",
+            "price": 245,
+            "star": 4.5
+          },
+          {
+            "id": 3,
+            "name": "Le Grand Galle",
+            "img": "",
+            "price": 146,
+            "star": 4.5
+          }
+        ],
+        "food": [],
+        "nearbyPlace": []
+        }
+      }
+    ]
+  }
