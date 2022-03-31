@@ -152,6 +152,24 @@
       "description": "",
       "tags": "",
       "star": 4
+    },
+    {
+      "id": 18,
+      "img":"https://www.unpasseportencavale.com/assets1pec/uploads/2019/09/Copyright2019_Un_Passeport_En_Cavale_Sri_Lank_Passikudah_Tous_Droits_R%C3%A9serv%C3%A9s_52.jpg",
+      "location":"Trinquemalay",
+      "title": "Nilaveli Beach",
+      "description": "",
+      "tags": "",
+      "star": 4
+    },
+    {
+      "id": 19,
+      "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
+      "location":"Kegalle",
+      "title": "Pinnawala",
+      "description": "",
+      "tags": ["nature", "safari"],
+      "star": 4
     }
   ]
 }
