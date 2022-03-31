@@ -109,7 +109,7 @@
       "star": 4.8
     },
     {
-    "id": 14,
+    "id": 13,
       "img":"https://d2eohwa6gpdg50.cloudfront.net/wp-content/uploads/2020/01/30171212/Crab_0015.jpg",
       "location":"colombo",
       "title": "Ministry of Crab",
@@ -118,7 +118,7 @@
       "star": 4.5
     },
     {
-      "id": 15,
+      "id": 14,
       "img":"https://cyberoctane.com/img/projects/hoppa_branding/hoppa_branding_cover.jpg",
       "location":"galle",
       "title": "Hoppa Galle Fort",
@@ -127,7 +127,7 @@
       "star": 4.5
     },
     {
-      "id":16,
+      "id":15,
       "img":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Public_Library%2C_Jaffna.JPG",
       "location":"jaffna",
       "title": "Jaffna Library",
@@ -136,7 +136,7 @@
       "star": 4.6
     },
     {
-      "id": 17,
+      "id": 16,
       "img":"https://media.tacdn.com/media/attractions-splice-spp-674x446/09/23/78/0f.jpg",
       "location":"nuwara eliya",
       "title": "Adam's Peak",
@@ -145,7 +145,7 @@
       "star": 4.7
     },
     {
-      "id": 18,
+      "id": 17,
       "img":"https://api.tripigee.com/images/d48f7f98-ae57-44e0-b723-31badc4d38f2.webp",
       "location":"trinquemalay",
       "title": "Nilaveli Beach",
@@ -154,16 +154,7 @@
       "star": 4.9
     },
     {
-      "id": 19,
-      "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5b/ae/47/the-orphanage-was-founded.jpg?w=1200&h=-1&s=1",
-      "location":"kegalle",
-      "title": "Pinnawala",
-      "description": "Known for its Elephant orphanage, Pinnawal has earned its fame among all the travelers that are paying a visit to Sri Lanka.",
-      "tags": ["kegalle", "nature", "safari"],
-      "star": 4.6
-    },
-    {
-      "id":20,
+      "id":18,
       "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/43/a0/61/nallur-kovil-jaffnamost.jpg?w=1200&h=1200&s=1",
       "location":"jaffna",
       "title": "Nallur Kovil",
@@ -172,7 +163,7 @@
       "star": 4.8
     },
     {
-      "id": 21,
+      "id": 19,
       "img":"https://travel-with-dilan.com/wp-content/uploads/2020/08/1558512267_elephants-murchison.jpg-1024x496.jpg",
       "location":"polonnaruwa",
       "title": "Minneriya National Park",
@@ -181,7 +172,7 @@
       "star": 4.8
     },
     {
-      "id": 22,
+      "id": 20,
       "img":"https://www.tropicalement-votre.com/dests/sri_lanka/temple-polannaruwa.jpg",
       "location":"polonnaruwa",
       "title": "Polonnaruwa Archeologic Site",
