@@ -5,7 +5,7 @@
       "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/57/ed/bf/colombo-with-berei-lake.jpg?w=1000&h=500&s=1",
       "location":"colombo",
       "title": "Colombo Port City",
-      "description": "Port City Colombo is a brand new city development built as an extension of the Central Business District of Sri Lanka’s vibrant commercial capital, Colombo. Spanning 269 hectares of reclaimed land from the sea, Port City Colombo will be South Asia’s premiere residential, retail and business destination, offering unmatched planned city living along the warm waters of the Indian Ocean.",
+      "description": "Port City Colombo is a brand new city development built as an extension of the Central Business District of Sri Lanka’s vibrant commercial capital, Colombo. Spanning 269 hectares of reclaimed land from the sea, Port City Colombo will be South Asia’s premiere residential, retail and business destination.",
       "tags": ["colombo", "beach", "shopping"],
       "star": 4.8
     },
@@ -14,7 +14,7 @@
       "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/08/df/59/such-a-beautiful-fort.jpg?w=1400&h=-1&s=1",
       "location":"galle",
       "title": "Galle Dutch Fort",
-      "description": "Galle Fort, in the Bay of Galle on the southwest coast of Sri Lanka, was built first in 1588 by the Portuguese, then extensively fortified by the Dutch during the 17th century from 1649 onwards. It is a historical, archaeological and architectural heritage monument, which even after more than 423 years maintains a polished appearance, due to extensive reconstruction work done by Archaeological Department of Sri Lanka.",
+      "description": "Galle Fort, in the Bay of Galle on the southwest coast of Sri Lanka, was built first in 1588 by the Portuguese, then extensively fortified by the Dutch during the 17th century from 1649 onwards. It is a historical, archaeological and architectural heritage monumen, which even after more than 423 years maintains a polished appearance.",
       "tags": ["galle", "beach", "nature", "heritage"],
       "star": 4.8
     },
@@ -23,7 +23,7 @@
       "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/31/67/5d/kandy-lake-and-the-temple.jpg?w=900&h=-1&s=1",
       "location":"kandy",
       "title": "Temple of the Sacred Tooth Relic",
-      "description": "The Temple of the Sacred Tooth Relic is a world-renowned place of worship, where the left Canine tooth of Gautama Buddha is enshrined. The temple which is venerated by thousands of local & foreign devotees and tourists daily was named as a world heritage by UNESCO in 1988.",
+      "description": "The Temple of the Sacred Tooth Relic is a world-renowned place of worship, where the left Canine tooth of Gautama Buddha is enshrined. The temple is venerated by thousands of local & foreign devotees daily.",
       "tags": ["heritage", "kandy", "buddhism"],
       "star": 4.7
     },
@@ -32,7 +32,7 @@
       "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/46/1e/13/img-20180227-161024-707.jpg?w=1000&h=-1&s=1",
       "location":"nuwara eliya",
       "title": "Horton Plains National Park",
-      "description": "The Horton Plains are the headwaters of three major Sri Lankan rivers, the Mahaweli, Kelani, and Walawe. Large herds of Sri Lankan sambar deer feature as typical mammals and the park is also an Important Bird Area with many species not only endemic to Sri Lanka but restricted to the Horton Plains.",
+      "description": "The Horton Plains are the headwaters of three major Sri Lankan rivers, the Mahaweli, Kelani, and Walawe. Large herds of Sri Lankan sambar deer feature as typical mammals.",
       "tags": ["nuwara eliya", "nature", "mountains"],
       "star": 4.7
     },
@@ -41,7 +41,7 @@
       "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/70/43/e4/nine-arch-bridge-demodara.jpg?w=1400&h=-1&s=1",
       "location":"ella",
       "title": "Ella Nine Arches Bridge",
-      "description": "The Nine Arch Bridge, also known as the ‘Bridge in the Sky’ was constructed by connecting two bog mountains when constructing the Badulla – Colombo railway. The Bridge can be reached by travelling 2km on Gotuwala road starting from Halpe Textile centre in Badulla Bandarawela road.",
+      "description": "The Nine Arch Bridge, also known as the ‘Bridge in the Sky’ was constructed by connecting two bog mountains when constructing the Badulla – Colombo railway. The Bridge can be reached by travelling 2km on Gotuwala road.",
       "tags": ["ella", "nature"],
       "star": 4.9
     },
