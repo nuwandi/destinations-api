@@ -23,7 +23,7 @@
       "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/31/67/5d/kandy-lake-and-the-temple.jpg?w=900&h=-1&s=1",
       "location":"kandy",
       "title": "Temple of the Sacred Tooth Relic",
-      "description": "The Temple of the Sacred Tooth Relic is a world-renowned place of worship, where the left Canine tooth of Gautama Buddha is enshrined.",
+      "description": "The Temple of the Sacred Tooth Relic is a world-renowned place of worship, where the left Canine tooth of Gautama Buddha is enshrined. The temple which is venerated by thousands of local & foreign devotees and tourists daily was named as a world heritage by  UNESCO  in 1988. The temple which carries a lot of value to Buddhists all over the world also has immense cultural value. The architecture is of unique Kandyan architectural style with a combination of the unique style used to build “Dalada Mandira” the shrines which housed the Sacred Tooth Relic previously in other kingdoms. ",
       "tags": ["heritage", "kandy", "buddhism"],
       "star": 4.7
     },
@@ -32,7 +32,7 @@
       "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/46/1e/13/img-20180227-161024-707.jpg?w=1000&h=-1&s=1",
       "location":"nuwara eliya",
       "title": "Horton Plains National Park",
-      "description": "git remote add origin https://github.com/nuwandi/destinations-api.git",
+      "description": "The Horton Plains are the headwaters of three major Sri Lankan rivers, the Mahaweli, Kelani, and Walawe. Large herds of Sri Lankan sambar deer feature as typical mammals and the park is also an Important Bird Area with many species not only endemic to Sri Lanka but restricted to the Horton Plains.",
       "tags": ["nuwara eliya", "nature", "mountains"],
       "star": 4.7
     },
@@ -41,7 +41,7 @@
       "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/70/43/e4/nine-arch-bridge-demodara.jpg?w=1400&h=-1&s=1",
       "location":"ella",
       "title": "Ella Nine Arches Bridge",
-      "description": "Ella is has become one of the major tourist hotspots of Sri Lanka and it is largely due to the epic scenery and hikes in the region such as Ella Rock and Little Adam’s Peak.",
+      "description": "The Nine Arch Bridge, also known as the ‘Bridge in the Sky’ was constructed by connecting two bog mountains when constructing the Badulla – Colombo railway. This bridge is 300 feet in length, 25 feet in width and 80-100 feet in height. It is one of the best examples of colonial-era railway construction in the country. The Bridge can be reached by travelling 2km on Gotuwala road starting from Halpe Textile centre in Badulla Bandarawela road. The surrounding area has seen a steady increase in tourism due to the bridge’s architectural ingenuity and the profuse greenery in the nearby hillsides.",
       "tags": ["ella", "nature"],
       "star": 4.9
     },
@@ -68,7 +68,7 @@
       "img":"https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/1d/83/d2.jpg",
       "location":"hambantota",
       "title": "Yala National Park",
-      "description": "Yala (යාල) National Park is the most visited and second largest national park in Sri Lanka, bordering the Indian Ocean.",
+      "description": "Yala (යාල) National Park is the most visited and second largest national park in Sri Lanka, bordering the Indian Ocean. There are six national parks and three wildlife sanctuaries in the vicinity of Yala.",
       "tags": ["hambantota","nature", "safari"],
       "star": 4.9
     },
@@ -131,7 +131,7 @@
       "img":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/cc/0b/54/photo0jpg.jpg?w=2200&h=-1&s=1",
       "location":"jaffna",
       "title": "Jaffna Library",
-      "description": "First built in 1933, the Jaffna Library has long been a symbol of northern heritage, making it one of the largest libraries in Asia.",
+      "description": "First built in 1933, the Jaffna Library has long been a symbol of northern heritage, making it one of the largest libraries in Asia. Ancient literature and documents from renowned scholars and other professionals were preserved at the Jaffna Library, and served as a cherished depository for information on the history and culture of the northern peninsula. Today, although filled with a collection nowhere near its original, the Library still commands the timeless dignity it upholds for the people of Jaffna and beyond.",
       "tags": ["jaffna", "heritage"],
       "star": 4.6
     },
